@@ -274,13 +274,17 @@ def evaluate_model(model, data_generator):
 
 ### Results of Model 1
 
-* **Accuracy Graph**
+**Accuracy Graph**
+
 ![Accuracy Graph](images/cnn1_plota.png)
 
-* **Loss Graph**
+
+**Loss Graph**
+
 ![Loss Graph](images/cnn1_plotb.png)
 
-* **Prediction**
+**Prediction**
+
 ![Prediction](images/prediction_cnn1.png)
 
 For the second model, we defined the following architecture:
@@ -300,11 +304,14 @@ modelcnn2_architecture = {
 
 ### Results of Model 2
 
-* **Accuracy Graph**
+**Accuracy Graph**
+
 ![Accuracy Graph](images/cnn2_plota.png)
 
-* **Loss Graph**
-![Loss Graph](images/cnn2_plotb.png)
+**Loss Graph**
 
-* **Prediction**
-![Prediction](images/prediction_cnn2.png)
+![Loss Graph](images/cnn2_plotb.png )
+
+**Prediction**
+
+![Loss Graph](images/prediction_cnn2.png)
